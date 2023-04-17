@@ -46,4 +46,4 @@ Users should be able to:
 - Event handling
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Shazee17)
+- Frontend Mentor - [@Shazee17](https://www.frontendmentor.io/profile/Shazee17)
